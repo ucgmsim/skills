@@ -1,0 +1,12 @@
+{
+  "name": "ucgmsim",
+  "owner": { "name": "ucgmsim" },
+  "description": "Claude Code skills for working on ucgmsim repositories.",
+  "plugins": [
+    {
+      "name": "ucgmsim",
+      "source": "./plugins/ucgmsim",
+      "description": "Claude Code skills for working on ucgmsim repositories."
+    }
+  ]
+}
